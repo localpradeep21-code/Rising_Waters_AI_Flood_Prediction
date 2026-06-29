@@ -108,6 +108,34 @@ http://127.0.0.1:5000
 * Add map-based flood visualization and live alerts.
 
 ------------------------------------------------------------------
+
+💻Team Lead 
+-------------------------------------------------------------------------------------
+   ●Lavanya Kadali
+   ●lavanyakadali1212@gmail.com
+---------------------------------------------------------------------------------------
+
+💻Team Members
+------------------------------------------------------------
+
+●Likhitha Kadali
+●likhithakadali578@gmail.com
+
+
+●Arja Pradeep Kumar
+●localpradeep21@gmail.com
+
+
+●Ramu Lucky
+●luckyramu068@gmail.com
+
+
+●Dasari Mohitha
+●mohithadasari4@gmail.com
+
+
+-----------------------------------------------------------------------------------
+
 ## Conclusion
 
 The **Rising Waters – AI-Powered Flood Prediction System** demonstrates how Machine Learning can be used to predict flood risks efficiently. By analyzing weather-related parameters, the system provides quick and reliable flood risk predictions through a simple web application. This project can support disaster management authorities in making timely decisions, reducing potential damage, and improving public safety. With future enhancements such as real-time weather data integration, cloud deployment, and larger datasets, the system can become an even more effective solution for flood prediction and disaster preparedness.
