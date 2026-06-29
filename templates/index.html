@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rising Waters - Flood Prediction</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>🌊 Rising Waters</h1>
+
+        <h2>AI-Powered Flood Prediction System</h2>
+
+        <form action="/predict" method="POST">
+
+            <label>Annual Rainfall (mm)</label>
+            <input type="number" name="rainfall" placeholder="Enter Rainfall" required>
+
+            <label>Cloud Visibility (%)</label>
+            <input type="number" name="cloud" placeholder="Enter Cloud %" required>
+
+            <label>Season</label>
+
+            <select name="season" required>
+                <option value="">--Select Season--</option>
+                <option value="0">Non-Rainy</option>
+                <option value="1">Rainy</option>
+            </select>
+
+            <br><br>
+
+            <button type="submit">Predict Flood Risk</button>
+
+        </form>
+
+    </div>
+
+</body>
+</html>
