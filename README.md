@@ -122,11 +122,11 @@ http://127.0.0.1:5000
 ●likhithakadali578@gmail.com
 
 
-●Arja Pradeep Kumar
+●Arja. Pradeep Kumar
 ●localpradeep21@gmail.com
 
 
-●Ramu Lucky
+●K.Lakshmanarao
 ●luckyramu068@gmail.com
 
 
